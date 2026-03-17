@@ -134,8 +134,16 @@ RegisterNumber:  212225240072
 
 ## Output:
 
+
+
 <img width="1012" height="468" alt="image" src="https://github.com/user-attachments/assets/c7449f4b-b188-436f-a99b-fce74739fab8" />
+
+ ============================================================================================
+
 <img width="1063" height="760" alt="image" src="https://github.com/user-attachments/assets/4d0a43e2-5c5b-4bb0-8fc3-33d8163839b5" />
+
+  ===========================================================================================
+
 <img width="1040" height="111" alt="image" src="https://github.com/user-attachments/assets/782f7af2-e42d-4c34-bb13-513ecbddf44f" />
 
 
